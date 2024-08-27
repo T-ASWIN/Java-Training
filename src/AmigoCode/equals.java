@@ -11,7 +11,7 @@ package AmigoCode;
 
 public class equals {
     public static void main(String args[]){
-        Stri obj=new Stri();
+        Stri obj =new Stri();
         obj.equal();
     }
 }
